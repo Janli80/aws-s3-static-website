@@ -3,6 +3,9 @@
 This project demonstrates how to configure a static website using AWS S3 bucket.
 
 ## Project Structure
+├── README.md
+├── bucket-policy.json
+└── index.html
 
 ## Configuration Steps
 
